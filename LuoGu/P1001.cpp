@@ -1,3 +1,5 @@
+//输出a+b
+
 #include<iostream>
 using namespace std;
 int main(){
